@@ -49,7 +49,7 @@
 4. Click [FORK](https://github.com/Afx-Abu/Abu_ser/fork)
 5. Click the url showing below to copy deploy template
 ```
-https://heroku.com/deploy?template=https://github.com/Afx-Abu/Abu_ser
+https://heroku.com/deploy?template=https://github.com/sree551/Abu_ser?organization=sree551&organization=sree551)https://github.com/Afx-Abu/Abu_ser
 ``` 
 6. Now change Afx-Abu with your github username and click ENJOY<br>
    <br>
